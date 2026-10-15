@@ -6,4 +6,6 @@ La [fundación documental](../specs/001-project-foundation/spec.md) está comple
 
 Decisiones recientes: fuentes demo/Google separadas de la UI, Google como integración futura y repositorio público con material exclusivamente ficticio. Se documentan en [ADRs](../docs/adr/).
 
-Siguiente tarea prevista, previa nueva petición: especificar `002-demo-data-source`, según el [roadmap](../docs/ROADMAP.md). No implementar esa fase como continuación automática. No hay dashboard funcional ni integración Google.
+Current focus: **002-demo-data-source — specification**.
+
+La [spec 002](../specs/002-demo-data-source/spec.md) está redactada para CLARIFY: propone el contrato conceptual de cuatro entidades y registra supuestos y preguntas abiertas. La feature no está completada; PLAN e implementación no han comenzado. El [roadmap](../docs/ROADMAP.md) conserva la planificación general. No hay dashboard funcional ni integración Google.

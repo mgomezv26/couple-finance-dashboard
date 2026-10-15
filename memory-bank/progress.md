@@ -2,9 +2,7 @@
 
 ## Completado
 
-- Inspección inicial: solo README.md y metadatos Git; sin código previo.
-- Redacción de AGENTS, rules, skills, constitución, spec, contexto, memoria y ADRs.
-- Validación documental y de privacidad; evidencia en el [checklist](../specs/001-project-foundation/checklists/foundation.md).
+- `001-project-foundation`: completed. Evidencia de validación documental y de privacidad en el [checklist](../specs/001-project-foundation/checklists/foundation.md).
 
 ## En progreso
 
@@ -12,5 +10,6 @@
 
 ## Pendiente
 
-- Nueva spec para demo mínima y contrato de datos, si se solicita.
-- Implementación de aplicación e integración Google: fuera de esta tarea, no iniciadas.
+- Próximo hito: `002-demo-data-source`; su spec se creará cuando comience la fase.
+
+El roadmap completo vive en [docs/ROADMAP.md](../docs/ROADMAP.md), única fuente de verdad para la planificación general del producto.

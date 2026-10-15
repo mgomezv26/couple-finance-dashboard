@@ -6,4 +6,4 @@ La [fundación documental](../specs/001-project-foundation/spec.md) está comple
 
 Decisiones recientes: fuentes demo/Google separadas de la UI, Google como integración futura y repositorio público con material exclusivamente ficticio. Se documentan en [ADRs](../docs/adr/).
 
-Siguiente trabajo esperado, previa nueva petición: especificar una demo mínima y el contrato del cargador, resolviendo el modelo y el entorno. No implementar esa fase como continuación automática. No hay dashboard funcional ni integración Google.
+Siguiente tarea prevista, previa nueva petición: especificar `002-demo-data-source`, según el [roadmap](../docs/ROADMAP.md). No implementar esa fase como continuación automática. No hay dashboard funcional ni integración Google.

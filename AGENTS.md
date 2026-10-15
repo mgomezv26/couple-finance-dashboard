@@ -17,6 +17,8 @@ Este repositorio está en fase de fundación documental. No presupongas que exis
 
 ## Mapa de contexto
 
+[Roadmap general del producto](docs/ROADMAP.md).
+
 | Capa | Función y entrada |
 | --- | --- |
 | Principios | [.specify/memory/constitution.md](.specify/memory/constitution.md): restricciones duraderas. |
